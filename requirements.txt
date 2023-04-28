@@ -10,3 +10,4 @@ dataprep
 ydata-profiling
 imbalanced-learn
 mlxtend
+shap
