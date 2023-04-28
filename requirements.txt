@@ -6,8 +6,7 @@ seaborn
 notebook
 xgboost
 scikit-learn
-dataprep
-ydata-profiling
-imbalanced-learn
 mlxtend
+joblib
 shap
+streamlit
