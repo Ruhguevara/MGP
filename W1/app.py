@@ -7,7 +7,7 @@ import joblib
 
 from predictions import ordinal_encoder, get_prediction
 
-model = joblib.load(r'random_forest_final.joblib')
+model = joblib.load(r'W1/random_forest_final.joblib')
 
 st.set_page_config(page_title='Accident Severity Prediction', 
                    page_icon=':car:', layout='wide', initial_sidebar_state='auto')
