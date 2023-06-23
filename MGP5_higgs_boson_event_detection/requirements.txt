@@ -1,0 +1,10 @@
+tdqm
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+tensorflow
+scikit-learn
+nbformat
+Jinja2
